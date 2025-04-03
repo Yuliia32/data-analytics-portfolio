@@ -34,6 +34,11 @@
 - Python (в процесі поглиблення: Pandas, Matplotlib, Seaborn)
 - Аналітичне мислення та звітність
 
+## 🐍 Python-проєкт
+
+🔗 [Фінальний проєкт у Google Colab]([https://colab.research.google.com/your-link-here](https://colab.research.google.com/drive/1fdW0Ks0yzKh_DwyQmkXnegTY0uIBl8F3?usp=sharing)  
+Аналіз продажів, поведінки користувачів, доставки та візуалізація інсайтів за допомогою Python (Pandas, Matplotlib, Seaborn).
+
 ---
 
 📫 Зв’язок: [LinkedIn](#) | Email: твій@email.com *(додай пізніше)*
