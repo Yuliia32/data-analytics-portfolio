@@ -21,7 +21,7 @@
 
 ---
 
-## 📊[Analysis of email communications effectiveness](https://public.tableau.com/app/profile/yuliia.smulchenko/viz/Book1_17418718310620/SessionAnalysis](https://public.tableau.com/views/email-/email-_3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+## 📊[Analysis of email communications effectiveness](https://public.tableau.com/app/profile/yuliia.smulchenko/viz/email-/email-_3)
 Ключова інформація з email-маркетингової кампанії, зокрема:
 - Тенденції відкриттів 📈
 - Ефективність кліків 📬
