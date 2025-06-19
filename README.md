@@ -21,7 +21,7 @@
 
 ---
 
-### 🔸 [🌐 Session Analysis](https://public.tableau.com/app/profile/yuliia.smulchenko/viz/Book1_17418718310620/SessionAnalysis)
+## 📊[Analysis of email communications effectiveness]([https://public.tableau.com/app/profile/yuliia.smulchenko/viz/Book1_17418718310620/SessionAnalysis](https://public.tableau.com/views/email-/email-_3?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 Звіт про поведінку користувачів: пристрої, браузери, операційні системи, канали трафіку, мова. Динаміка сесій по континентах у часі.
 
 ---
