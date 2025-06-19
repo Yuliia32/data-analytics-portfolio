@@ -41,7 +41,7 @@
 
 ---
 
-📫 Зв’язок: [LinkedIn](#) | Email: твій@email.com *(додай пізніше)*
+📫 Зв’язок: [www.linkedin.com/in/yuliya-smylchenko-9a11b718b) | Email: yuliya0024@gmail.com
 
 ---
 
